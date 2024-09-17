@@ -1,8 +1,8 @@
 # Overview
 
-# This project involves analyzing a dataset of diamond characteristics to predict diamond prices using advanced regression techniques. The project leverages data preprocessing, feature engineering, and machine learning models to deliver accurate price predictions based on key attributes like carat, cut, clarity, and color.
+- This project involves analyzing a dataset of diamond characteristics to predict diamond prices using advanced regression techniques. The project leverages data preprocessing, feature engineering, and machine learning models to deliver accurate price predictions based on key attributes like carat, cut, clarity, and color.
 
-# The analysis is performed using Python and includes data cleaning, exploratory data analysis (EDA), feature selection, and model optimization.
+- The analysis is performed using Python and includes data cleaning, exploratory data analysis (EDA), feature selection, and model optimization.
 
 # Project Overview
 - This analysis utilizes a diamond dataset containing features such as carat, cut, color, clarity, and price.
