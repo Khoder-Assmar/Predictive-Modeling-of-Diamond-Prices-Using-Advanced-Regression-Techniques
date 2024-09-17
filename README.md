@@ -10,7 +10,7 @@
 
 # Key Insights
 
-# Feature Importance: Identified carat as the most significant predictor of price, followed by clarity and cut.
+- Feature Importance: Identified carat as the most significant predictor of price, followed by clarity and cut.
 - Price Trends: Observed a direct correlation between carat size and price, with higher carat diamonds commanding exponentially higher prices.
 - Model Performance: Achieved a high R-squared score through the use of optimized machine learning algorithms, ensuring the model’s predictive accuracy.
 - Tools & Libraries
